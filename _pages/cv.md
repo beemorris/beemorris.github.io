@@ -24,7 +24,7 @@ Research
 
 * 2014: Research Volunteer
   * University of Florida
-  * Duties: I assisted with the coding of corpus data consisting of utterances from Korean Learners of English for a research project supervised by Dr. Stefanie Wulff.
+  * Duties Included: I assisted with the coding of corpus data consisting of utterances from Korean Learners of English for a research project supervised by Dr. Stefanie Wulff.
 
 Work Experience
 ======
@@ -52,27 +52,14 @@ Skills
   * English - Native
   * Swedish - A2
 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service
 ======
-* I have been a subreviewer for the following conferences.
-  * 2020: TLT
-  * Secondary Reviewer
+* I have been a secondary reviewer for the following conferences.
+  * 2020:
+    * TLT
+    * CLiC-it
+    * COLING
+  * 2019:
+    * Syntax Fest (2 papers)
+    * Konvens
+    * RANLP
