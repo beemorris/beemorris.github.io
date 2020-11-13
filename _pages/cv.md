@@ -11,30 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* A.A Modern Foreign Languages, Daytona State College, 2011-2012
+* B.A. Linguistics, University of Florida, 2012-2014
+* M.A. Computational Linguistics, Indiana University, 2016-2018
+* Ph.D Computational Linguistics, Indiana University, 2018-Current
 
-Work experience
+Research
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014: Research Volunteer
+  * University of Florida
+  * Duties: I assisted with the coding of corpus data consisting of utterances from Korean Learners of English for a research project supervised by Dr. Stefanie Wulff.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Work Experience
+======
+* 2018-Current: Managing Editor
+  * The LINGUIST List
+  * Duties included: Mananging Editor, Careers Editor, Social Media Correspondent, Invoicing Officer
+  * Supervisor: Gosia Cavar
+
+* 2015-2016: Consultation Agent
+  * Geek Squad, Best Buy
+  * Duties included: Troubleshooting computer problems
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python 3
+  * Java
+  * C++
+  * R
+* Operating Systems
+  * Mac OS
+  * Linux
+  * Windows
+* Languages
+  * English - Native
+  * Swedish - A2
+
 
 Publications
 ======
