@@ -11,13 +11,17 @@ redirect_from:
 
 Education
 ======
-* A.A Modern Foreign Languages, Daytona State College, 2011-2012
-* B.A. Linguistics, University of Florida, 2012-2014
-* M.A. Computational Linguistics, Indiana University, 2016-2018
 * Ph.D Computational Linguistics, Indiana University, 2018-Current
+* M.A. Computational Linguistics, Indiana University, 2016-2018
+* B.A. Linguistics, University of Florida, 2012-2014
+* A.A Modern Foreign Languages, Daytona State College, 2011-2012
 
 Research
 ======
+* Spring 2020: Study Abroad
+  * Linköpings universitet
+  I studied Swedish A1 and A2 at LiU. I also took an NLP class with Dr. Marco Kuhlmann in the Department of Computer and Information Science (IDA). I was also a member of the NLPLAB.
+
 * 2014: Research Volunteer
   * University of Florida
   * Duties: I assisted with the coding of corpus data consisting of utterances from Korean Learners of English for a research project supervised by Dr. Stefanie Wulff.
@@ -67,6 +71,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* I have been a subreviewer for the following conferences.
+  * 2020: TLT
+  * Secondary Reviewer
