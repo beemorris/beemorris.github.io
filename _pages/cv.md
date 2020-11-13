@@ -39,6 +39,9 @@ Work Experience
 
 Skills
 ======
+* Languages
+  * English - Native
+  * Swedish - A2
 * Programming
   * Python 3
   * Java
@@ -48,9 +51,6 @@ Skills
   * Mac OS
   * Linux
   * Windows
-* Languages
-  * English - Native
-  * Swedish - A2
 
 Service
 ======
