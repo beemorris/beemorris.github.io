@@ -3,6 +3,9 @@ layout: archive
 title: "memberships"
 permalink: /memberships/
 author_profile: true
+redirect_from:
+  - /work
+  - /job
 ---
 
 {% include base_path %}
