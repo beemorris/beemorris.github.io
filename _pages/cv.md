@@ -19,7 +19,7 @@ education
 * 2012 - 2014
   * B.A. Linguistics, University of Florida
 * 2011 - 2012
-  * A.A Modern Foreign Languages, Daytona State College
+  * A.A. Modern Foreign Languages, Daytona State College
     * Graduated with Honors
 
 research
