@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+education
 ======
 * Ph.D Computational Linguistics, Indiana University, 2018-Current
 * M.A. Computational Linguistics, Indiana University, 2016-2018
@@ -17,7 +17,7 @@ Education
 * A.A Modern Foreign Languages, Daytona State College, 2011-2012
   * Graduated with Honors
 
-Research
+research
 ======
 * Spring 2020: Study Abroad
   * Linköpings universitet
@@ -27,7 +27,7 @@ Research
   * University of Florida
   * Duties Included: I assisted with the coding of corpus data consisting of utterances from Korean Learners of English for a research project supervised by Dr. Stefanie Wulff.
 
-Work Experience
+work experience
 ======
 * 2018-Current: Managing Editor
   * The LINGUIST List
@@ -38,7 +38,7 @@ Work Experience
   * Geek Squad, Best Buy
   * Duties included: Troubleshooting computer problems
 
-Skills
+skills
 ======
 * Languages
   * English - Native
@@ -54,7 +54,7 @@ Skills
   * Linux
   * Windows
 
-Service
+service
 ======
 * I have been a secondary reviewer for the following conferences.
   * 2020:
@@ -66,7 +66,7 @@ Service
     * Konvens
     * RANLP
 
-Memberships
+memberships
 ======
 * 2016-Current: Indiana University
   * Member of [Sandra Kübler's Lab](https://www.researchgate.net/lab/Sandra-Kuebler-Lab)
@@ -79,7 +79,7 @@ Memberships
 * 2014: University of Florida
   * [UF Corpus Linguistics Lab](https://people.clas.ufl.edu/swulff/uf-corpus-linguistics-lab/) Member
 
-Advisors
+advisors
 ======
 * Current: Indiana University
   * Sandra Kübler
