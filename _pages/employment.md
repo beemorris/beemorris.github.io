@@ -3,6 +3,9 @@ permalink: /employment/
 title: "employment"
 excerpt: "employment"
 author_profile: true
+redirect_from:
+  - /work
+  - /job
 ---
 
 {% include base_path %}
