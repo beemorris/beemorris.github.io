@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-* 2016-Current: Indiana University
+* 2016 - Current: Indiana University
   * Member of [Sandra Kübler's Lab](https://www.researchgate.net/lab/Sandra-Kuebler-Lab)
-  * [CLingDing Member](https://cl.indiana.edu/clingding.html)
+  * [CLingDing](https://cl.indiana.edu/clingding.html) Member
   * Indiana University Linguistics Club Member
 
 * Spring 2020: Linköpings universitet
