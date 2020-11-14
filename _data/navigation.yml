@@ -3,7 +3,7 @@ main:
 #  - title: "Publications"
 #    url: /publications/
 
-  - title: "Talks"
+  - title: "talks"
     url: /talks/    
 
 #  - title: "Teaching"
@@ -18,8 +18,11 @@ main:
 #  - title: "Guide"
 #    url: /markdown/
 
-  - title: "Memberships"
+  - title: "memberships"
     url: /memberships/
 
-  - title: "CV"
+- title: "employment"
+    url: /employment/
+
+  - title: "cv"
     url: /cv/
