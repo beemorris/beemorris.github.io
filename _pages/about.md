@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Becca Morris"
-excerpt: "About me"
+title: "becca morris"
+excerpt: "about me"
 author_profile: true
 redirect_from: 
   - /about/

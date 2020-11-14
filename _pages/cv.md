@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -78,3 +78,12 @@ Memberships
 
 * 2014: University of Florida
   * [UF Corpus Linguistics Lab](https://people.clas.ufl.edu/swulff/uf-corpus-linguistics-lab/) Member
+
+Advisors
+======
+* Current: Indiana University
+  * Sandra Kübler
+  * Francis Tyers
+
+* 2012-2014: University of Florida
+  * Stefanie Wulff

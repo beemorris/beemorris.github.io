@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Memberships"
+title: "memberships"
 permalink: /memberships/
 author_profile: true
 ---
