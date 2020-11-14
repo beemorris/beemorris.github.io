@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: "memberships"
+title: "Memberships"
 permalink: /memberships/
 author_profile: true
 ---
 
 {% include base_path %}
 
-Memberships
-======
 * 2016-Current: Indiana University
   * Member of [Sandra Kübler's Lab](https://www.researchgate.net/lab/Sandra-Kuebler-Lab)
   * [CLingDing Member](https://cl.indiana.edu/clingding.html)
