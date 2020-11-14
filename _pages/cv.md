@@ -45,6 +45,7 @@ Skills
   * Swedish - A2
 * Programming
   * Python 3
+  * Unix
   * Java
   * C++
   * R
