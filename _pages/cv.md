@@ -15,6 +15,7 @@ Education
 * M.A. Computational Linguistics, Indiana University, 2016-2018
 * B.A. Linguistics, University of Florida, 2012-2014
 * A.A Modern Foreign Languages, Daytona State College, 2011-2012
+  * Graduated with Honors
 
 Research
 ======
@@ -63,3 +64,16 @@ Service
     * Syntax Fest (2 papers)
     * Konvens
     * RANLP
+
+Memberships
+======
+* 2016-Current: Indiana University
+  * Member of [Sandra Kübler's Lab](https://www.researchgate.net/lab/Sandra-Kuebler-Lab)
+  * [CLingDing Member](https://cl.indiana.edu/clingding.html)
+  * Indiana University Linguistics Club Member
+
+* Spring 2020: Linköpings universitet
+  * [NLPLAB](https://www.ida.liu.se/divisions/hcs/nlplab/) Member
+
+* 2014: University of Florida
+  * [UF Corpus Linguistics Lab](https://people.clas.ufl.edu/swulff/uf-corpus-linguistics-lab/) Member
