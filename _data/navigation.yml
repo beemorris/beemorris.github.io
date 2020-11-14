@@ -21,7 +21,7 @@ main:
   - title: "memberships"
     url: /memberships/
 
-- title: "employment"
+  - title: "employment"
     url: /employment/
 
   - title: "cv"
