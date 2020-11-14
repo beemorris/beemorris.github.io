@@ -29,12 +29,12 @@ research
 
 work experience
 ======
-* 2018-Current: Managing Editor
+* 2018 - Current: Managing Editor
   * The LINGUIST List
   * Duties included: Mananging Editor, Careers Editor, Social Media Correspondent, Invoicing Officer
   * Supervisor: Gosia Cavar
 
-* 2015-2016: Consultation Agent
+* 2015 - 2016: Consultation Agent
   * Geek Squad, Best Buy
   * Duties included: Troubleshooting computer problems
 
@@ -68,7 +68,7 @@ service
 
 memberships
 ======
-* 2016-Current: Indiana University
+* 2016 - Current: Indiana University
   * Member of [Sandra Kübler's Lab](https://www.researchgate.net/lab/Sandra-Kuebler-Lab)
   * [CLingDing Member](https://cl.indiana.edu/clingding.html)
   * Indiana University Linguistics Club Member
@@ -85,5 +85,5 @@ advisors
   * Sandra Kübler
   * Francis Tyers
 
-* 2012-2014: University of Florida
+* 2012 - 2014: University of Florida
   * Stefanie Wulff
