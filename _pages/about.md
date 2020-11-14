@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in Computational Linguistics at Indiana University. I received my MA in Computational Linguistics from IU, and my BA in Linguistics from the University of Florida. I am currently working on my qualifying exams one of which will focus on corpus linguistics and the other on improving Swedish dependency parsing.
+I am currently a PhD student in Computational Linguistics at Indiana University. I received my MA in Computational Linguistics from IU, and my BA in Linguistics from the University of Florida. I am currently working on my qualifying exams. One will focus on corpus linguistics and the other on improving Swedish dependency parsing.
 
-My second qual will lead into my dissertation which will focus on improving Swedish dependency parsing and comparing/contrasting Swedish parsing results.
+My second qual will lead into my dissertation, which will focus on improving Swedish dependency parsing and comparing/contrasting Swedish parsing results.
 
 I am also the Managing Editor at The LINGUIST List. I am also responsible for posting Career announcements, managing our Social Media and boosting announcements, and I am also the Invoicing Officer.
 
