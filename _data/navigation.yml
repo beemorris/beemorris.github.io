@@ -26,3 +26,6 @@ main:
 
   - title: "curriculum vitae"
     url: /curriculum-vitae/
+
+  - title: "contact"
+    url: "/contact/"
