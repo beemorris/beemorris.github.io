@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in Computational Linguistics at Indiana University. I received my M.A. in Computational Linguistics from IU, and my B.A. in Linguistics from the University of Florida. I am currently working on my qualifying exams. One will focus on corpus linguistics and the other on improving Swedish dependency parsing.
+I am a PhD student at Indiana University. I major in Computational Linguistics with a minor in Informatics. My current research interests are Dependency Parsing, Swedish, Universal Dependencies, Treebanks, and Natural Language Processing.
+
+I received my M.A. in Computational Linguistics from IU, and my B.A. in Linguistics from the University of Florida. I am currently working on my qualifying exams. One will focus on corpus linguistics and the other on improving Swedish dependency parsing.
 
 My second qual will lead into my dissertation, which will focus on improving Swedish dependency parsing and comparing/contrasting Swedish parsing results.
 
