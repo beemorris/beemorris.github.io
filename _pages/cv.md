@@ -28,7 +28,7 @@ research
   * Linköpings universitet
   I studied Swedish A1 and A2 at LiU. I also took an NLP class with Dr. Marco Kuhlmann in the Department of Computer and Information Science (IDA). I was also a member of the NLPLAB.
 
-* 2014: Research Volunteer
+* 2013 - 2014: Research Volunteer
   * University of Florida
   * Duties Included: I assisted with the coding of corpus data consisting of utterances from Korean Learners of English for a research project supervised by Dr. Stefanie Wulff.
 
