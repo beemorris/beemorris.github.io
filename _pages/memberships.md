@@ -14,6 +14,9 @@ redirect_from:
   * Member of [Sandra Kübler's Lab](https://www.researchgate.net/lab/Sandra-Kuebler-Lab)
   * [CLingDing](https://cl.indiana.edu/clingding.html) Member
   * Indiana University Linguistics Club Member
+  * 2021 - Current:
+    * Leader of Dependency Parsing Reading Group
+    * Admin for CLingDing Slack
 
 * Spring 2020: Linköpings universitet
   * [NLPLAB](https://www.ida.liu.se/divisions/hcs/nlplab/) Member

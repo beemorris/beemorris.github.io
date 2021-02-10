@@ -21,11 +21,11 @@ main:
   - title: "memberships"
     url: /memberships/
 
-  - title: "employment"
-    url: /employment/
-
   - title: "curriculum vitae"
     url: /curriculum-vitae/
+
+  - title: "employment"
+    url: /employment/
 
   - title: "contact"
     url: /contact/
