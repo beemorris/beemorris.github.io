@@ -61,7 +61,7 @@ skills
 
 service
 ======
-* I have been a secondary reviewer for the following conferences.
+* I have been a secondary reviewer for the following conferences:
   * 2020:
     * TLT
     * CLiC-it
