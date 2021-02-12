@@ -3,8 +3,11 @@ main:
 #  - title: "Publications"
 #    url: /publications/
 
+  - title: "curriculum vitae"
+    url: /curriculum-vitae/
+
   - title: "talks"
-    url: /talks/    
+    url: /talks/
 
 #  - title: "Teaching"
 #    url: /teaching/    
@@ -20,9 +23,6 @@ main:
 
   - title: "memberships"
     url: /memberships/
-
-  - title: "curriculum vitae"
-    url: /curriculum-vitae/
 
   - title: "employment"
     url: /employment/
