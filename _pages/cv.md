@@ -47,20 +47,26 @@ skills
 ======
 * Languages
   * English - Native
-  * Swedish - A2
+  * Swedish - A2  
+
 * Programming
   * Python 3
   * Unix
   * Java
   * C++
-  * R
+  * R  
+
 * Operating Systems
   * Mac OS
   * Linux
   * Windows
 
-service
+service & leadership
 ======
+  * 2021 - Current:
+    * Leader of Dependency Parsing Reading Group
+    * Admin for CLingDing Slack  
+
 * I have been a secondary reviewer for the following conferences:
   * 2020:
     * TLT
@@ -78,16 +84,13 @@ memberships
   * Member of [Sandra Kübler's Lab](https://www.researchgate.net/lab/Sandra-Kuebler-Lab)
   * [CLingDing](https://cl.indiana.edu/clingding.html) Member
   * Indiana University Linguistics Club Member
-  * [Center of Excellence for Women & Technology](https://womenandtech.indiana.edu/)
-  * 2021 - Current:
-    * Leader of Dependency Parsing Reading Group
-    * Admin for CLingDing Slack\s\s
+  * [Center of Excellence for Women & Technology](https://womenandtech.indiana.edu/)  
 
 * Spring 2020: Linköpings universitet
-  * [NLPLAB](https://www.ida.liu.se/divisions/hcs/nlplab/) Member\s\s
+  * [NLPLAB](https://www.ida.liu.se/divisions/hcs/nlplab/) Member  
 
 * 2013 - 2014: University of Florida
-  * [UF Corpus Linguistics Lab](https://people.clas.ufl.edu/swulff/uf-corpus-linguistics-lab/) Member\s\s
+  * [UF Corpus Linguistics Lab](https://people.clas.ufl.edu/swulff/uf-corpus-linguistics-lab/) Member  
 
 * 2012: Daytona State College
   * Phi Theta Kappa Honors Society Member
@@ -96,7 +99,7 @@ advisors
 ======
 * Current: Indiana University
   * Sandra Kübler
-  * Francis Tyers\s\s
-
+  * Francis Tyers  
+  
 * 2013 - 2014: University of Florida
   * Stefanie Wulff
