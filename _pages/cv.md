@@ -13,7 +13,7 @@ redirect_from:
 education
 ======
 * 2018 - Current
-  * Ph.D Computational Linguistics, Indiana University
+  * Ph.D. Computational Linguistics, Indiana University
 * 2016 - 2018
   * M.A. Computational Linguistics, Indiana University
 * 2013 - 2014
