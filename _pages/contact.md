@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-To contact me, please send me an email at morrisbe at iu dot edu.
+To contact me, please send me an email at: morrisbe at iu dot edu.
