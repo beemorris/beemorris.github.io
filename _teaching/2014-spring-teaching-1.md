@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "LaTex Workshop for Faculty, Postdocs & Graduate Students"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Tutorial"
+permalink: /teaching/2021-spring-tutorial-1
+venue: "CEW&T, Indiana University"
+date: 2021-02-26
+location: "Virtual"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+My advisor ran a LaTex Tutorial for the Center of Excellence for Women & Technology that was attended by 28 people. I assisted in this tutorial along with another student. We presented the basics of LaTex and how to use Overleaf while allowing the attendees to make their own LaTex document. We also answered any questions the attendees had about formatting, LaTex etiquette, and packages.
