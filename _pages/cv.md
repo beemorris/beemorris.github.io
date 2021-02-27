@@ -54,8 +54,8 @@ teaching
 ======
 * Indiana University:
   * Spring 2021
-    * LaTex Tutorial
-      * My advisor lead a LaTex Tutorial for the Center of Excellence for Women & Technology. I assisted in this tutorial along with another student.
+    * LaTeX Tutorial
+      * My advisor lead a LaTeX Tutorial for the Center of Excellence for Women & Technology. I assisted in this tutorial along with another student.
   * Fall 2019
     * While my advisor was out of town I taught two lectures: Unix basics and Python.
 
@@ -71,7 +71,7 @@ languages & skills
   * C++
   * R
 * Markup
-  * LaTex
+  * LaTeX
   * HTML
 * Operating Systems
   * Mac OS
