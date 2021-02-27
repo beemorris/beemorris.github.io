@@ -61,11 +61,11 @@ teaching
 ======
 * Indiana University
   * Spring 2021
-    * LaTeX Tutorial
+    * [LaTeX Tutorial](https://beemorris.github.io/teaching/2021-spring-tutorial-LaTeX)
       * My advisor lead a LaTeX Tutorial for the Center of Excellence for Women & Technology. I assisted in this tutorial along with another student.
   * Fall 2019
     * L55: Programming for Computational Linguistics
-      * While my advisor was out of town I taught two lectures: Unix basics and Python.
+      * I filled in for my advisor and taught two lectures on Unix basics and Python. This is a mixed undergraduate and graduate course.
 
 service & leadership
 ======
