@@ -69,7 +69,7 @@ languages & skills
   * Unix
   * Java
   * C++
-  * R 
+  * R
 * Markup
   * LaTex
   * HTML
