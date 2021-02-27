@@ -70,6 +70,9 @@ languages & skills
   * Java
   * C++
   * R 
+* Markup
+  * LaTex
+  * HTML
 * Operating Systems
   * Mac OS
   * Linux
