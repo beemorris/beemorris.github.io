@@ -2,7 +2,7 @@
 title: "LaTex Workshop for Faculty, Postdocs & Graduate Students"
 collection: teaching
 type: "Tutorial"
-permalink: /teaching/2021-spring-tutorial-1
+permalink: /teaching/2021-spring-tutorial-latex
 venue: "Indiana University, CEW&T"
 date: 2021-02-26
 location: "Virtual"
