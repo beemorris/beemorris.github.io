@@ -22,43 +22,6 @@ education
   * A.A. Modern Foreign Languages, Daytona State College
     * Graduated with Honors
 
-advisors
-======
-* Current: Indiana University
-  * Sandra Kübler
-  * Francis Tyers  
-  
-* 2013 - 2014: University of Florida
-  * Stefanie Wulff
-
-research
-======
-* Spring 2020: Study Abroad
-  * Linköpings universitet
-  * I studied Swedish A1 and A2 at LiU. I also took an NLP class with Dr. Marco Kuhlmann in the Department of Computer and Information Science (IDA). I was also a member of the NLPLAB. 
-* 2013 - 2014: Research Volunteer
-  * University of Florida
-  * Duties Included: I assisted with the coding of corpus data consisting of utterances from Korean Learners of English for a research project supervised by Dr. Stefanie Wulff.
-
-work experience
-======
-* 2018 - Current: Managing Editor
-  * The LINGUIST List
-  * Duties included: Mananging Editor, Careers Editor, Social Media Correspondent, Invoicing Officer
-  * Supervisor: Gosia Cavar 
-* 2015 - 2016: Consultation Agent
-  * Geek Squad, Best Buy
-  * Duties included: Troubleshooting computer problems
-
-teaching
-======
-* Indiana University:
-  * Spring 2021
-    * LaTeX Tutorial
-      * My advisor lead a LaTeX Tutorial for the Center of Excellence for Women & Technology. I assisted in this tutorial along with another student.
-  * Fall 2019
-    * While my advisor was out of town I taught two lectures: Unix basics and Python.
-
 languages & skills
 ======
 * Languages
@@ -78,20 +41,49 @@ languages & skills
   * Linux
   * Windows
 
+research
+======
+* Spring 2020: Linköpings universitet, Study Abroad
+  * I studied Swedish A1 and A2 at LiU. I also took an NLP class with Dr. Marco Kuhlmann in the Department of Computer and Information Science (IDA). I was also a member of the NLPLAB. 
+* 2013 - 2014: University of Florida, Research Volunteer
+  * I assisted with the coding of corpus data consisting of utterances from Korean Learners of English for a research project supervised by Dr. Stefanie Wulff.
+
+advisors
+======
+* Current: Indiana University
+  * Sandra Kübler
+  * Francis Tyers
+  
+* 2013 - 2014: University of Florida
+  * Stefanie Wulff
+
+teaching
+======
+* Indiana University
+  * Spring 2021
+    * LaTeX Tutorial
+      * My advisor lead a LaTeX Tutorial for the Center of Excellence for Women & Technology. I assisted in this tutorial along with another student.
+  * Fall 2019
+    * L55: Programming for Computational Linguistics
+      * While my advisor was out of town I taught two lectures: Unix basics and Python.
+
 service & leadership
 ======
-  * 2021 - Current:
+  * 2021 - Current
     * Leader of Dependency Parsing Reading Group
     * Admin for CLingDing Slack
-* I have been a secondary reviewer for the following conferences:
-  * 2020:
-    * TLT
-    * CLiC-it
-    * COLING
-  * 2019:
-    * Syntax Fest (2 papers)
-    * Konvens
-    * RANLP
+
+reviewing
+======
+  * I have been a secondary reviewer for the following conferences:
+    * 2020
+      * TLT
+      * CLiC-it
+      * COLING
+    * 2019
+      * Syntax Fest (2 papers)
+      * Konvens
+      * RANLP
 
 memberships
 ======
@@ -106,3 +98,13 @@ memberships
   * [UF Corpus Linguistics Lab](https://people.clas.ufl.edu/swulff/uf-corpus-linguistics-lab/) Member
 * 2012: Daytona State College
   * Phi Theta Kappa Honors Society Member
+
+work experience
+======
+* 2018 - Current: Managing Editor
+  * The LINGUIST List
+  * Duties included: Mananging Editor, Careers Editor, Social Media Correspondent, Invoicing Officer
+  * Supervisor: Gosia Cavar 
+* 2015 - 2016: Consultation Agent
+  * Geek Squad, Best Buy
+  * Duties included: Troubleshooting computer problems

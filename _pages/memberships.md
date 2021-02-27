@@ -12,7 +12,7 @@ redirect_from:
 
 service & leadership
 ======
-  * 2021 - Current:
+  * 2021 - Current
     * Leader of Dependency Parsing Reading Group
     * Admin for CLingDing Slack
 
