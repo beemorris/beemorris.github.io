@@ -12,13 +12,13 @@ redirect_from:
 
 education
 ======
-* 2018 - Current
+* Current
   * Ph.D. Computational Linguistics, Indiana University
-* 2016 - 2018
+* 2018
   * M.A. Computational Linguistics, Indiana University
-* 2013 - 2014
+* 2014
   * B.A. Linguistics, University of Florida
-* 2011 - 2012
+* 2012
   * A.A. Modern Foreign Languages, Daytona State College
     * Graduated with Honors
 
