@@ -12,7 +12,7 @@ redirect_from:
 
 education
 ======
-* Current Ph.D. Computational Linguistics, Indiana University
+* Current    Ph.D. Computational Linguistics, Indiana University
   * Informatics Minor
 * 2018 M.A. Computational Linguistics, Indiana University
   * Major Computational Linguistics
