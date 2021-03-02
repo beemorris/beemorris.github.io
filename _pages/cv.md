@@ -13,14 +13,19 @@ redirect_from:
 education
 ======
 * Current
-  * Ph.D. Computational Linguistics, Indiana University
+  * __Ph.D.__ _Indiana University_
+    * __Major:__ Computational Linguistics
+    * __Minor:__ Informatics
 * 2018
-  * M.A. Computational Linguistics, Indiana University
+  * __M.A.__ _Indiana University_
+  * __Major:__ Computational Linguistics
 * 2014
-  * B.A. Linguistics, University of Florida
+  * __B.A.__ _University of Florida_
+  * __Major:__ Linguistics
 * 2012
-  * A.A. Modern Foreign Languages, Daytona State College
-    * Graduated with Honors
+  * __A.A.__ _Daytona State College_
+    * __Major:__ Modern Foreign Languages
+    * _Graduated with Honors_
 
 languages & skills
 ======
@@ -94,11 +99,11 @@ work experience
 * 2018 - Current: The LINGUIST List
   * _Managing Editor, Careers Editor, Social Media Lead, Invoicing Officer_
   * Supervisor: Gosia Cavar
-  * Duties included: 
+  * Responsibilities:
     * Managing Editor - Ensuring emails get directed to the correct editor and that announcements get posted within 48 business hours.
     * Careers Editor - Posting all job, support, and internship announcements.
     *  Social Media Lead - Posting all social media boosts to our Facebook and Instagram pages and monitoring those pages.
     *  Invoicing Officer - Creating invoices for every job announcement, social media boost, individual book or TOC announcement, and supporting publisher invoices.
 * 2015 - 2016: Geek Squad, Best Buy
   * _Consultation Agent_
-  * Duties included: Troubleshooting computer problems
+  * Responsibilities: Troubleshooting and diagnosing computer problems, recommending solutions and services. Assisting clients with questions and providing solutions and instructions based on their needs.
