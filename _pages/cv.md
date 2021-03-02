@@ -62,7 +62,7 @@ teaching
 * Indiana University
   * Spring 2021
     * LaTeX Tutorial
-      * My advisor lead a LaTeX Tutorial for the Center of Excellence for Women & Technology. I assisted in this tutorial along with another student.
+      * My advisor led a LaTeX Tutorial for the Center of Excellence for Women & Technology. I assisted in this tutorial along with another student.
   * Fall 2019
     * L55: Programming for Computational Linguists
       * I filled in for my advisor and taught two lectures on Unix basics and Python. This is a mixed undergraduate and graduate course.
