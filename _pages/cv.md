@@ -72,18 +72,16 @@ service & leadership
   * 2021 - Current
     * Leader of Dependency Parsing Reading Group
     * Admin for CLingDing Slack Channel
-
-reviewing
-======
-  * I have been a secondary reviewer for the following conferences:
-    * 2020
-      * TLT
-      * CLiC-it
-      * COLING
-    * 2019
-      * Syntax Fest (2 papers)
-      * Konvens
-      * RANLP
+  * Reviewing
+    * I have been a secondary reviewer for the following conferences:
+      * 2020
+        * TLT
+        * CLiC-it
+        * COLING
+      * 2019
+        * Syntax Fest (2 papers)
+        * Konvens
+        * RANLP
 
 memberships
 ======
