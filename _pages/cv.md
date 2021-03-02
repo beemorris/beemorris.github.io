@@ -25,21 +25,13 @@ education
 languages & skills
 ======
 * Languages
-  * English - Native
-  * Swedish - A2
+  * English - Native, Swedish - A2
 * Programming
-  * Python 3
-  * Unix
-  * Java
-  * C++
-  * R
+  * Python 3, Unix, Java, C++, R
 * Markup
-  * LaTeX
-  * HTML
+  * LaTeX, HTML
 * Operating Systems
-  * Mac OS
-  * Linux
-  * Windows
+  * macOS, Linux, Windows
 
 research
 ======
