@@ -12,10 +12,14 @@ redirect_from:
 
 education
 ======
-* Current      Ph.D. Computational Linguistics, Informatics Minor, Indiana University
-* 2018         Computational Linguistics, Indiana University
-* 2014         Linguistics, University of Florida
-* 2012         Modern Foreign Languages, Graduated with Honors, Daytona State College
+* Current
+  * Ph.D. Computational Linguistics, Informatics Minor, Indiana University
+* 2018
+  * M.A. Computational Linguistics, Indiana University
+* 2014
+  *  B.A. Linguistics, University of Florida
+* 2012
+  * A.A. Modern Foreign Languages, Graduated with Honors, Daytona State College
 
 languages & skills
 ======
