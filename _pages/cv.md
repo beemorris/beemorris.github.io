@@ -99,14 +99,14 @@ memberships
 
 work experience
 ======
-* 2018 - Current: Managing Editor, Careers Editor, Social Media Lead, Invoicing Officer
-  * The LINGUIST List
+* 2018 - Current: The LINGUIST List
+  * _Managing Editor, Careers Editor, Social Media Lead, Invoicing Officer_
   * Supervisor: Gosia Cavar
   * Duties included: 
     * Managing Editor - Ensuring emails get directed to the correct editor and that announcements get posted within 48 business hours.
     * Careers Editor - Posting all job, support, and internship announcements.
     *  Social Media Lead - Posting all social media boosts to our Facebook and Instagram pages and monitoring those pages.
     *  Invoicing Officer - Creating invoices for every job announcement, social media boost, individual book or TOC announcement, and supporting publisher invoices.
-* 2015 - 2016: Consultation Agent
-  * Geek Squad, Best Buy
+* 2015 - 2016: Geek Squad, Best Buy
+  * _Consultation Agent_
   * Duties included: Troubleshooting computer problems
