@@ -12,13 +12,13 @@ redirect_from:
 
 education
 ======
-* Current
+* 2018 - Current
   * Ph.D. Computational Linguistics, Informatics Minor, Indiana University
-* 2018
+* 2016 - 2018
   * M.A. Computational Linguistics, Indiana University
-* 2014
+* 2013 - 2014
   *  B.A. Linguistics, University of Florida
-* 2012
+* 2011 - 2012
   * A.A. Modern Foreign Languages, Graduated with Honors, Daytona State College
 
 languages & skills
@@ -58,21 +58,27 @@ teaching
     * L55: Programming for Computational Linguists
       * I filled in for my advisor and taught two lectures on Unix basics and Python. This is a mixed undergraduate and graduate course.
 
+events
+======
+* Coffee and Conversation with Sandra Kübler
+  * Indiana University, Center of Excellence for Women & Technology, April 9, 2021
+  * Answered questions about LaTeX and discussed the benefits of using it and using Overleaf.
+
 service & leadership
 ======
-  * 2021 - Current
-    * Leader of Dependency Parsing Reading Group
-    * Admin for CLingDing Slack Channel
-  * Reviewing
-    * I have been a secondary reviewer for the following conferences:
-      * 2020
-        * TLT
-        * CLiC-it
-        * COLING
-      * 2019
-        * Syntax Fest (2 papers)
-        * Konvens
-        * RANLP
+* 2021 - Current
+  * Leader of Dependency Parsing Reading Group
+  * Admin for CLingDing Slack Channel
+* Reviewing
+  * I have been a secondary reviewer for the following conferences:
+    * 2020
+      * TLT
+      * CLiC-it
+      * COLING
+    * 2019
+      * Syntax Fest (2 papers)
+      * Konvens
+      * RANLP
 
 memberships
 ======
