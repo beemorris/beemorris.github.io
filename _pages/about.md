@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. student at Indiana University. I major in Computational Linguistics with a minor in Informatics. My current research interests are Dependency Parsing, Cross-lingual Parsing, Swedish, Universal Dependencies, Treebanks, and Natural Language Processing.
 
-I currently lead a Dependency Parsing Reading Group at IU.
+I lead a [Dependency Parsing Reading Group](https://docs.google.com/document/d/1m_NLTttIvRnCa3rYkS4ZtJKIixNQXjSRAwJGfi49L98/edit?usp=sharing) at IU.
 
 I earned my M.A. in Computational Linguistics from IU, and my B.A. in Linguistics from the University of Florida. I am currently working on my qualifying exams. One will focus on corpus linguistics and the other on improving Swedish dependency parsing.
 
