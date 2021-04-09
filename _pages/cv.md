@@ -62,7 +62,7 @@ events
 ======
 * Coffee and Conversation with Sandra Kübler
   * Indiana University, Center of Excellence for Women & Technology, April 9, 2021
-  * Answered questions about LaTeX and discussed the benefits of using it and using Overleaf.
+  * I assited my advisor, along with another student, and we answered questions about LaTeX and discussed the benefits of using it and using Overleaf.
 
 service & leadership
 ======
