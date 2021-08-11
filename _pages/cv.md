@@ -70,13 +70,16 @@ service & leadership
   * Leader of Dependency Parsing Reading Group
   * Admin for CLingDing Slack Channel
 * Reviewing
+  * I was a solo reviewer for the following conference:
+    * 2021
+      * RANLP
   * I have been a secondary reviewer for the following conferences:
     * 2020
       * TLT
       * CLiC-it
       * COLING
     * 2019
-      * Syntax Fest (2 papers)
+      * Syntax Fest
       * Konvens
       * RANLP
 
@@ -96,7 +99,10 @@ memberships
 
 work experience
 ======
-* 2018 - Current: The LINGUIST List
+* Fall 2021: Associate Instructor, Indiana University, Linguistics Department
+  * _Solo instructor on record_ 
+    * Undergraduate Syntax (LING L-310)
+* 2018 - 2021: The LINGUIST List
   * _Managing Editor, Careers Editor, Social Media Lead, Invoicing Officer_
   * Supervisor: Gosia Cavar
   * Responsibilities:

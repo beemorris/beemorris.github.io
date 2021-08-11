@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2021-fall-syntax
 venue: "Indiana University, Linguistics Department"
-date: Fall 2021
+date: 2021-08-23
 location: "Bloomington, IN"
 ---
 
