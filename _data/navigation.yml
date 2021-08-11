@@ -27,5 +27,5 @@ main:
   - title: "employment"
     url: /employment/
 
-  - title: "contact"
-    url: /contact/
+#  - title: "contact"
+#    url: /contact/
