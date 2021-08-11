@@ -6,12 +6,12 @@ main:
   - title: "curriculum vitae"
     url: /curriculum-vitae/
 
+  - title: "teaching"
+    url: /teaching/
+
   - title: "talks"
     url: /talks/
 
-  - title: "teaching"
-    url: /teaching/
-    
 #  - title: "Portfolio"
 #    url: /portfolio/
         
