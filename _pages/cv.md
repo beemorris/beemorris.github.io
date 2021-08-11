@@ -44,7 +44,6 @@ advisors
 * Current: Indiana University
   * Sandra Kübler
   * Francis Tyers
-  
 * 2013 - 2014: University of Florida
   * Stefanie Wulff
 
@@ -54,6 +53,8 @@ teaching
   * Fall 2021
     * LING L-310: Syntax
       * Solo instructor on record for undergraduate Syntax.
+    * LING L-245: Language and Computers
+      * I am shadowing my advisor Sandra Kübler. I am also helping with syllabus development, lecturing, and office hours.
   * Spring 2021
     * LaTeX Tutorial
       * My advisor led a LaTeX Tutorial for the Center of Excellence for Women & Technology. I assisted in this tutorial along with another student.
