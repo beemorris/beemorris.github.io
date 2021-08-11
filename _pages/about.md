@@ -12,6 +12,8 @@ I am a Ph.D. student at Indiana University. I major in Computational Linguistics
 
 I lead a Dependency Parsing Reading Group at IU.
 
+I am currently an Associate Instructor at IU and am the solo instructor on record for undergraduate Syntax in the Linguistics department.
+
 I earned my M.A. in Computational Linguistics from IU, and my B.A. in Linguistics from the University of Florida. I am currently working on my qualifying exams. One will focus on corpus linguistics and the other on improving Swedish dependency parsing.
 
 My second qual will lead into my dissertation, which will focus on improving Swedish dependency parsing and comparing/contrasting Swedish parsing results.
