@@ -16,6 +16,4 @@ I earned my M.A. in Computational Linguistics from IU, and my B.A. in Linguistic
 
 My second qual will lead into my dissertation, which will focus on improving Swedish dependency parsing and comparing/contrasting Swedish parsing results.
 
-I am also the Managing Editor at The LINGUIST List. I am also responsible for posting Career announcements, managing our Social Media and boosting announcements, and I am also the Invoicing Officer.
-
 In my spare time I enjoy listening to music, playing video games, and spending time with my cat. I am also trying to maintain the Swedish I learned during my semester abroad at Linköpings universitet.

@@ -10,4 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am currently a full time Ph.D. student and Graduate Assistant at Indiana University via [The LINGUIST List](https://linguistlist.org/people/becca/).
+I am currently a full time Ph.D. student and Associate Instructor at Indiana University.
+
+
+I have previously been a Graduate Assistant at Indiana University via [The LINGUIST List](https://linguistlist.org/people/becca/).
