@@ -51,6 +51,9 @@ advisors
 teaching
 ======
 * Indiana University
+  * Fall 2021
+    * LING L-310: Syntax
+      * Solo instructor on record for undergraduate Syntax.
   * Spring 2021
     * LaTeX Tutorial
       * My advisor led a LaTeX Tutorial for the Center of Excellence for Women & Technology. I assisted in this tutorial along with another student.
@@ -100,7 +103,7 @@ memberships
 work experience
 ======
 * Fall 2021: Associate Instructor, Indiana University, Linguistics Department
-  * _Solo instructor on record_ 
+  * _Solo instructor on record_
     * Undergraduate Syntax (LING L-310)
 * 2018 - 2021: The LINGUIST List
   * _Managing Editor, Careers Editor, Social Media Lead, Invoicing Officer_
