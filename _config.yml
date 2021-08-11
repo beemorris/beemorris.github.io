@@ -84,10 +84,10 @@ author:
   avatar           : "profile.jpeg"
   bio              : "Computational Linguistics Ph.D. student at Indiana Univeristy."
   location         : "Indiana, USA"
-  employer         : "The LINGUIST List"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "morrisbe@iu.edu"
   researchgate     : "https://www.researchgate.net/profile/Becca_Morris2"
   uri              :
   bitbucket        :
