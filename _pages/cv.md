@@ -64,11 +64,15 @@ teaching
     * L55: Programming for Computational Linguists
       * I filled in for my advisor and taught two lectures on Unix basics and Python. This is a mixed undergraduate and graduate course.
 
-events
+workshops & events
 ======
+* Course Development Institute
+  * Indiana University, Center for Innovative Teaching and Learning (CITL), Summer 2021
+  * I attended a Course Design Institute during the Summer of 2021. It was a six week course on how to design a course using backward course design. It also taught the basics of the Transparency in Learning and Teaching (TILT) method.
+
 * Coffee and Conversation with Sandra Kübler
-  * Indiana University, Center of Excellence for Women & Technology, April 9, 2021
-  * I assited my advisor, along with another student, and we answered questions about LaTeX and discussed the benefits of using it and using Overleaf.
+  * Indiana University, Center of Excellence for Women & Technology (CEW&T), April 9, 2021
+  * I assisted my advisor, along with another student, and we answered questions about LaTeX and discussed the benefits of using it and using Overleaf.
 
 service & leadership
 ======
