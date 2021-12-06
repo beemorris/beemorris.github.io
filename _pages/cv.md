@@ -38,6 +38,8 @@ research
 ======
 * Spring 2020: Linköpings universitet, Study Abroad
   * I studied Swedish A1 and A2 at LiU. I also took an NLP class with Dr. Marco Kuhlmann in the Department of Computer and Information Science (IDA). I was also a member of the NLPLAB. 
+* 2018 - 2019: Indiana University, Annotation Research 
+  * I worked on annotating some Hakha Chin (Laiholh) data using the Universal Dependencies annotation scheme.
 * 2013 - 2014: University of Florida, Research Volunteer
   * I assisted with the coding of corpus data consisting of utterances from Korean Learners of English for a research project supervised by Dr. Stefanie Wulff.
 
