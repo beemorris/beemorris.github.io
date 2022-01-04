@@ -8,4 +8,4 @@ date: 2021-08-23
 location: "Bloomington, IN"
 ---
 
-I am shadowing my advisor Sandra Kübler. I am also helping with syllabus development, lecturing, and am available for office hours.
+I shadowed my advisor Sandra Kübler. I also helped with syllabus development, facilitating and participating in class discussions, and was available for office hours.

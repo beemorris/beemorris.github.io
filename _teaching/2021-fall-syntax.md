@@ -8,6 +8,6 @@ date: 2021-08-23
 location: "Bloomington, IN"
 ---
 
-I am the solo instructor on record for undergraduate Syntax in the Linguistics Department at Indiana University. I am responsible for developing and presenting lessons, creating and grading assignments, and holding office hours.
+I was the solo instructor (Associate Instructor) on record for undergraduate Syntax in the Linguistics Department at Indiana University. I was responsible for developing and presenting lessons, creating and grading assignments, and holding office hours.
 
-This course is concerned with the syntax (sentence structure) of natural, or human, language. This course will explore how syntactic structures reflect a common human cognitive capacity, and it will also explore the ways in which languages differ from each other. This course uses the generative framework of syntax. This courses focuses on developing an understanding of the underlying assumptions of the generative framework, as well as constructing and evaluating grammatical analyses.
+This course was concerned with the syntax (sentence structure) of natural, or human, language. This course explored how syntactic structures reflect a common human cognitive capacity, and it also explored the ways in which languages differ from each other. This course used the generative framework of syntax. This courses focused on developing an understanding of the underlying assumptions of the generative framework, as well as constructing and evaluating grammatical analyses.
