@@ -111,6 +111,9 @@ memberships
 
 work experience
 ======
+* Spring 2022: Research Assistant, Indiana University, Linguistics Department
+  * _Research Assistant_
+    * I will be investigating how much is lost when doing dependency parsing via model transfer of closely related languages when the parser is not optimized for the target language. The languages being investigated are Swedish, Norwegian (Nynorsk), and Danish. This work also counts towards my second qualifying exam.
 * Fall 2021: Associate Instructor, Indiana University, Linguistics Department
   * _Solo instructor on record_
     * Undergraduate Syntax (LING L-310)
