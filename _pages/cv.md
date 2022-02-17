@@ -66,6 +66,26 @@ teaching
     * L55: Programming for Computational Linguists
       * I filled in for my advisor and taught two lectures on Unix basics and Python. This is a mixed undergraduate and graduate course.
 
+work experience
+======
+* Spring 2022: Research Assistant, Indiana University, Linguistics Department
+  * _Research Assistant_
+    * I am investigating how much is lost with regards to performance when performing dependency parsing on closely related languages if the parser is not optimized for the target language. The languages being evaluated are Swedish, Norwegian (Nynorsk), and Danish.
+* Fall 2021: Associate Instructor, Indiana University, Linguistics Department
+  * _Solo instructor on record_
+    * Undergraduate Syntax (LING L-310)
+* 2018 - 2021: The LINGUIST List
+  * _Managing Editor, Careers Editor, Social Media Lead, Invoicing Officer_
+  * Supervisor: Gosia Cavar
+  * Responsibilities:
+    * Managing Editor - Ensuring emails get directed to the correct editor and that announcements get posted within 48 business hours.
+    * Careers Editor - Posting all job, support, and internship announcements.
+    *  Social Media Lead - Posting all social media boosts to our Facebook and Instagram pages and monitoring those pages.
+    *  Invoicing Officer - Creating invoices for every job announcement, social media boost, individual book or TOC announcement, and supporting publisher invoices.
+* 2015 - 2016: Geek Squad, Best Buy
+  * _Consultation Agent_
+  * Responsibilities: Troubleshooting and diagnosing computer problems, recommending solutions and services. Assisting clients with questions and providing solutions and instructions based on their needs.
+
 workshops & events
 ======
 * Course Development Institute
@@ -108,23 +128,3 @@ memberships
   * [UF Corpus Linguistics Lab](https://people.clas.ufl.edu/swulff/uf-corpus-linguistics-lab/) Member
 * 2012: Daytona State College
   * Phi Theta Kappa Honors Society Member
-
-work experience
-======
-* Spring 2022: Research Assistant, Indiana University, Linguistics Department
-  * _Research Assistant_
-    * I am investigating how much is lost with regards to performance when performing dependency parsing on closely related languages if the parser is not optimized for the target language. The languages being evaluated are Swedish, Norwegian (Nynorsk), and Danish.
-* Fall 2021: Associate Instructor, Indiana University, Linguistics Department
-  * _Solo instructor on record_
-    * Undergraduate Syntax (LING L-310)
-* 2018 - 2021: The LINGUIST List
-  * _Managing Editor, Careers Editor, Social Media Lead, Invoicing Officer_
-  * Supervisor: Gosia Cavar
-  * Responsibilities:
-    * Managing Editor - Ensuring emails get directed to the correct editor and that announcements get posted within 48 business hours.
-    * Careers Editor - Posting all job, support, and internship announcements.
-    *  Social Media Lead - Posting all social media boosts to our Facebook and Instagram pages and monitoring those pages.
-    *  Invoicing Officer - Creating invoices for every job announcement, social media boost, individual book or TOC announcement, and supporting publisher invoices.
-* 2015 - 2016: Geek Squad, Best Buy
-  * _Consultation Agent_
-  * Responsibilities: Troubleshooting and diagnosing computer problems, recommending solutions and services. Assisting clients with questions and providing solutions and instructions based on their needs.
