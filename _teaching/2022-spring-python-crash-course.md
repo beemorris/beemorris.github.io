@@ -1,5 +1,5 @@
 ---
-title: "Text Processing with Python Accelerator Crash Course for Faculty and Graduate Students"
+title: "Text Processing with Python Accelerator Crash Course for Faculty & Graduate Students"
 collection: teaching
 type: "Teaching"
 permalink: /teaching/2022-spring-python-crash-course
