@@ -1,7 +1,7 @@
 ---
 title: "Text Processing with Python Accelerator Crash Course for Faculty & Graduate Students"
 collection: teaching
-type: "Teaching"
+type: "Crash Course"
 permalink: /teaching/2022-spring-python-crash-course
 venue: "Indiana University, CEW&T"
 date: 2022-02-18
