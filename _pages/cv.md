@@ -73,7 +73,7 @@ work experience
 ======
 * Spring 2022: Research Assistant, Indiana University, Linguistics Department
   * _Research Assistant_
-    * I am investigating how much is lost with regards to performance when performing dependency parsing on closely related languages if the parser is not optimized for the target language. The languages being evaluated are Swedish, Norwegian (Nynorsk), and Danish.
+    * I am investigating how much is lost with regard to performance when performing dependency parsing on closely related languages if the parser is not optimized for the target language. The languages being evaluated are Swedish, Norwegian (Nynorsk), and Danish.
 * Fall 2021: Associate Instructor, Indiana University, Linguistics Department
   * _Solo instructor on record_
     * Undergraduate Syntax (LING L-310)
