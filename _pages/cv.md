@@ -54,11 +54,14 @@ advisors
 teaching
 ======
 * Indiana University
+  * Spring 2022
+    * Text Processing with Python Accelerator Crash Course for Faculty & Graduate Students
+      * I assisted my advisor and another student in an accelerated Python crash course geared towards text processing.
   * Fall 2021
     * LING L-310: Syntax
-      * Solo instructor on record for undergraduate Syntax.
+      * Associate Instructor of Record for undergraduate Syntax.
     * LING L-245: Language and Computers
-      * I am shadowing my advisor Sandra Kübler. I am also helping with syllabus development, lecturing, and office hours.
+      * I shadowed my advisor Sandra Kübler. I also helped with syllabus development, lecturing, and was available for office hours.
   * Spring 2021
     * LaTeX Tutorial
       * My advisor led a LaTeX Tutorial for the Center of Excellence for Women & Technology. I assisted in this tutorial along with another student.
