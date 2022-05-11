@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Doctoral Researcher at Indiana University. I major in Computational Linguistics with a minor in Informatics. My current research interests are Dependency Parsing, Cross-lingual Parsing, Swedish, Universal Dependencies, Treebanks, and Natural Language Processing.
+I am a Doctoral Researcher at Indiana University. I major in Computational Linguistics and minor in Informatics. My current research interests are Dependency Parsing, Cross-lingual Parsing, Swedish, Universal Dependencies, Treebanks, and Natural Language Processing.
 
 I earned my M.A. in Computational Linguistics from IU, and my B.A. in Linguistics from the University of Florida. I am currently working on my qualifying exams. I have passed the first portion, and it focused on corpus linguistics.
 

@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am currently a full time Ph.D. student at Indiana University. THIS IS A TEST.
+I am currently a Doctoral Researcher at Indiana University.
 
 I am also a full-time Linguistics Analyst II at TELUS International where I am collaborating on NLP research and with product teams for Grammarly to annotate content and perform data quality control. I am also assisting in the development of data and annotation guidelines. I also work with the product team to improve the feedback provided to users.
 
