@@ -12,7 +12,7 @@ I am a Doctoral Researcher at Indiana University. I major in Computational Lingu
 
 I earned my M.A. in Computational Linguistics from IU, and my B.A. in Linguistics from the University of Florida. I am currently working on my qualifying exams. I have passed the first portion, and it focused on corpus linguistics.
 
-I am currently a Research Assistant at IU. I am investigating how much is lost when doing dependency parsing via model transfer of closely related languages when the parser is not optimized for the target language. The languages being investigated are Swedish, Norwegian (Nynorsk), and Danish. This work also counts towards my second qualifying exam.
+My research currently focuses on how much is lost when doing dependency parsing via model transfer of closely related languages when the parser is not optimized for the target language. The languages being investigated are Swedish, Norwegian (Nynorsk), and Danish. This work also counts towards my second qualifying exam.
 
 I also lead a Dependency Parsing Reading Group at IU.
 
