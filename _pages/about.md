@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a full-time contract employee collaborating on NLP research and with product teams for Grammarly.
+I am a full-time contract employee at TELUS International. I am collaborating on NLP research and with product teams for Grammarly.
 
 I am currently interested in transitioning into management positions related to linguistics and technology.
 

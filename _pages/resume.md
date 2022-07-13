@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "curriculum vitae"
+title: "resume/curriculum vitae"
 permalink: /curriculum-vitae/
 author_profile: true
 redirect_from:
