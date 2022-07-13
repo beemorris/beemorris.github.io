@@ -12,8 +12,8 @@ redirect_from:
 
 education
 ======
-* 2018 - Current
-  * Ph.D. Computational Linguistics, Informatics Minor, Indiana University
+* 2018 - 2022
+  * Ph.D. Student & Doctoral Researcher, Computational Linguistics, Informatics Minor, Indiana University (No degree awarded)
 * 2016 - 2018
   * M.A. Computational Linguistics, Indiana University
 * 2013 - 2014
@@ -34,6 +34,29 @@ languages & skills
 * Operating Systems
   * macOS, Linux, Windows
 
+experience
+======
+* February 2022 - Present: TELUS International
+  * _Linguistics Analyst II_
+    * I am a full-time contract employee collaborating on NLP research and with product teams for Grammarly to annotate content and perform data quality control. I also provide feedback to the analytical linguists on annotation guidelines.
+* Spring 2022: Research Assistant, Indiana University, Linguistics Department
+  * _Research Assistant_
+    * I am investigating how much is lost with regard to performance when performing dependency parsing on closely related languages if the parser is not optimized for the target language. The languages being evaluated are Swedish, Norwegian (Nynorsk), and Danish.
+* Fall 2021: Associate Instructor, Indiana University, Linguistics Department
+  * _Solo instructor on record_
+    * Undergraduate Syntax (LING L-310)
+* 2018 - 2021: The LINGUIST List
+  * _Managing Editor, Careers Editor, Social Media Lead, Invoicing Officer_
+  * Supervisor: Gosia Cavar
+  * Responsibilities:
+    * Managing Editor - Ensuring emails get directed to the correct editor and that announcements get posted within 48 business hours.
+    * Careers Editor - Posting all job, support, and internship announcements.
+    *  Social Media Lead - Posting all social media boosts to our Facebook and Instagram pages and monitoring those pages.
+    *  Invoicing Officer - Creating invoices for every job announcement, social media boost, individual book or TOC announcement, and supporting publisher invoices.
+* 2015 - 2016: Geek Squad, Best Buy
+  * _Consultation Agent_
+  * Responsibilities: Troubleshooting and diagnosing computer problems, recommending solutions and services. Assisting clients with questions and providing solutions and instructions based on their needs.
+
 research
 ======
 * Spring 2020: Linköpings universitet, Study Abroad
@@ -45,7 +68,7 @@ research
 
 advisors
 ======
-* Current: Indiana University
+* Indiana University
   * Sandra Kübler
   * Francis Tyers
 * 2013 - 2014: University of Florida
@@ -69,26 +92,6 @@ teaching
     * L55: Programming for Computational Linguists
       * I filled in for my advisor and taught two lectures on Unix basics and Python. This is a mixed undergraduate and graduate course.
 
-work experience
-======
-* Spring 2022: Research Assistant, Indiana University, Linguistics Department
-  * _Research Assistant_
-    * I am investigating how much is lost with regard to performance when performing dependency parsing on closely related languages if the parser is not optimized for the target language. The languages being evaluated are Swedish, Norwegian (Nynorsk), and Danish.
-* Fall 2021: Associate Instructor, Indiana University, Linguistics Department
-  * _Solo instructor on record_
-    * Undergraduate Syntax (LING L-310)
-* 2018 - 2021: The LINGUIST List
-  * _Managing Editor, Careers Editor, Social Media Lead, Invoicing Officer_
-  * Supervisor: Gosia Cavar
-  * Responsibilities:
-    * Managing Editor - Ensuring emails get directed to the correct editor and that announcements get posted within 48 business hours.
-    * Careers Editor - Posting all job, support, and internship announcements.
-    *  Social Media Lead - Posting all social media boosts to our Facebook and Instagram pages and monitoring those pages.
-    *  Invoicing Officer - Creating invoices for every job announcement, social media boost, individual book or TOC announcement, and supporting publisher invoices.
-* 2015 - 2016: Geek Squad, Best Buy
-  * _Consultation Agent_
-  * Responsibilities: Troubleshooting and diagnosing computer problems, recommending solutions and services. Assisting clients with questions and providing solutions and instructions based on their needs.
-
 workshops & events
 ======
 * Course Development Institute
@@ -101,7 +104,7 @@ workshops & events
 
 service & leadership
 ======
-* 2021 - Current
+* 2021 - 2022
   * Leader of Dependency Parsing Reading Group
   * Admin for CLingDing Slack Channel
 * Reviewing
