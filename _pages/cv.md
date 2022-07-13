@@ -45,6 +45,7 @@ experience
 * Fall 2021: Associate Instructor, Indiana University, Linguistics Department
   * _Solo instructor on record_
     * Undergraduate Syntax (LING L-310)
+    * I was the solo instructor on record for undergraduate Syntax in the Linguistics Department at Indiana University. I was responsible for developing and presenting lessons, creating and grading assignments, and holding office hours.
 * 2018 - 2021: The LINGUIST List
   * _Managing Editor, Careers Editor, Social Media Lead, Invoicing Officer_
   * Supervisor: Gosia Cavar
