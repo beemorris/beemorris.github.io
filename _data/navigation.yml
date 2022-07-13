@@ -3,6 +3,9 @@ main:
 #  - title: "Publications"
 #    url: /publications/
 
+  - title: "employment"
+    url: /employment/
+
   - title: "curriculum vitae"
     url: /curriculum-vitae/
 
@@ -23,9 +26,6 @@ main:
 
   - title: "memberships"
     url: /memberships/
-
-  - title: "employment"
-    url: /employment/
 
 #  - title: "contact"
 #    url: /contact/

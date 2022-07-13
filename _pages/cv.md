@@ -123,7 +123,7 @@ service & leadership
 
 memberships
 ======
-* 2016 - Current: Indiana University
+* 2016 - 2022: Indiana University
   * Member of [Sandra Kübler's Lab](https://www.researchgate.net/lab/Sandra-Kuebler-Lab)
   * [CLingDing](https://cl.indiana.edu/clingding.html) Member
   * Indiana University Linguistics Club Member
