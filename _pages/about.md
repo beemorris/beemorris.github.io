@@ -12,7 +12,7 @@ I am a full-time contract employee at TELUS International. I am collaborating on
 
 I am currently interested in transitioning into project management positions related to linguistics and technology.
 
-I earned my M.A. in Computational Linguistics from IU, and my B.A. in Linguistics from the University of Florida. I am currently working on my qualifying exams. I have passed the first portion, and it focused on corpus linguistics.
+I earned my M.A. in Computational Linguistics from IU, and my B.A. in Linguistics from the University of Florida.
 
 I was a Ph.D. student and Doctoral Researcher at Indiana University. I majored in Computational Linguistics and minored in Informatics. My research interests included Dependency Parsing, Cross-lingual Parsing, Swedish, Universal Dependencies, Treebanks, and Natural Language Processing.
 
