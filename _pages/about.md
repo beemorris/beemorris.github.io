@@ -10,7 +10,7 @@ redirect_from:
 
 I am a full-time contract employee at TELUS International. I am collaborating on NLP research and with product teams for Grammarly.
 
-I am currently interested in transitioning into management positions related to linguistics and technology.
+I am currently interested in transitioning into project management positions related to linguistics and technology.
 
 I earned my M.A. in Computational Linguistics from IU, and my B.A. in Linguistics from the University of Florida. I am currently working on my qualifying exams. I have passed the first portion, and it focused on corpus linguistics.
 
