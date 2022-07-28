@@ -14,7 +14,7 @@ I am currently interested in transitioning into project management positions rel
 
 I earned my M.A. in Computational Linguistics from IU, and my B.A. in Linguistics from the University of Florida.
 
-I was a Ph.D. student and Doctoral Researcher at Indiana University. I majored in Computational Linguistics and minored in Informatics. My research interests included Dependency Parsing, Cross-lingual Parsing, Swedish, Universal Dependencies, Treebanks, and Natural Language Processing.
+I was a Ph.D. student and Doctoral Researcher at Indiana University. I majored in Computational Linguistics and minored in Informatics. My research interests included Dependency Parsing, Cross-lingual Parsing, Swedish, Universal Dependencies, Treebanks, Annotation, and Natural Language Processing.
 
 My research focused on how much is lost when doing dependency parsing via model transfer of closely related languages when the parser is not optimized for the target language. The languages investigated were Swedish, Norwegian (Nynorsk), and Danish. 
 
