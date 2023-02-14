@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a full-time contract employee at TELUS International. I am collaborating on NLP research and with product teams for Grammarly.
+I am a full-time contract employee at TELUS International AI Data Solutions, contributing to NLP research and collaborating with product teams at Grammarly to annotate content and perform data quality control. I also provide feedback to the analytical linguists on annotation guidelines.
 
 I am currently interested in transitioning into project management positions related to linguistics and technology.
 
