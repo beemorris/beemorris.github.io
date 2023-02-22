@@ -20,4 +20,4 @@ My research focused on how much is lost when doing dependency parsing via model 
 
 I also led a Dependency Parsing Reading Group at IU for a year and a half.
 
-In my spare time I enjoy listening to music, playing video games, and spending time with my cat. I am also trying to maintain the Swedish I learned during my semester abroad at Linköpings universitet.
+I am currently working on getting my Pilates teaching certification. In my spare time I enjoy listening to music, playing video games, and spending time with my cat. I am also trying to maintain the Swedish I learned during my semester abroad at Linköpings universitet.
