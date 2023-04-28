@@ -104,7 +104,7 @@ workshops & events
   * I assisted my advisor, along with another student, and we answered questions about LaTeX and discussed the benefits of using it and using Overleaf.
 
 * Machine Translation Marathon in the Americas (MTMA) 2017
-  * I was an attendee of the third [MTMA](https://www2.statmt.org/mtma17/_) workshop.
+  * I was an attendee of the third [MTMA](https://www2.statmt.org/mtma17/) workshop.
 
 service & leadership
 ======
