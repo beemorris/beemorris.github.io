@@ -41,7 +41,7 @@ experience
     * I am a full-time contract employee collaborating on NLP research and with product teams for Grammarly to annotate content and perform data quality control. I also provide feedback to the analytical linguists on annotation guidelines.
 * Spring 2022: Research Assistant, Indiana University, Linguistics Department
   * _Research Assistant_
-    * I am investigating how much is lost with regard to performance when performing dependency parsing on closely related languages if the parser is not optimized for the target language. The languages being evaluated are Swedish, Norwegian (Nynorsk), and Danish.
+    * I investigated whether something new or different is being learned about the target language when optimizing on the target language rather than using the source optimization when performing dependency parsing on closely related languages. The evaluated languages were Swedish, Norwegian (Nynorsk), and Danish.
 * Fall 2021: Associate Instructor, Indiana University, Linguistics Department
   * _Solo instructor on record_
     * Undergraduate Syntax (LING L-310)
@@ -72,7 +72,7 @@ advisors
 * Indiana University
   * Sandra Kübler
   * Francis Tyers
-* 2013 - 2014: University of Florida
+* University of Florida
   * Stefanie Wulff
 
 teaching
