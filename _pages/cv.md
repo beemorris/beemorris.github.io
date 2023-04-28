@@ -50,13 +50,13 @@ experience
   * _Managing Editor, Careers Editor, Social Media Lead, Invoicing Officer_
   * Supervisor: Gosia Cavar
   * Responsibilities:
-    * Managing Editor - Ensuring emails get directed to the correct editor and that announcements get posted within 48 business hours.
-    * Careers Editor - Posting all job, support, and internship announcements.
-    *  Social Media Lead - Posting all social media boosts to our Facebook and Instagram pages and monitoring those pages.
-    *  Invoicing Officer - Creating invoices for every job announcement, social media boost, individual book or TOC announcement, and supporting publisher invoices.
+    * Managing Editor - Ensured emails get directed to the correct editor and that announcements get posted within 48 business hours.
+    * Careers Editor - Posted all job, support, and internship announcements.
+    *  Social Media Lead - Posted all social media boosts to our Facebook and Instagram pages and monitoring those pages.
+    *  Invoicing Officer - Created invoices for every job announcement, social media boost, individual book or TOC announcement, and supporting publisher invoices.
 * 2015 - 2016: Geek Squad, Best Buy
   * _Consultation Agent_
-  * Responsibilities: Troubleshooting and diagnosing computer problems, recommending solutions and services. Assisting clients with questions and providing solutions and instructions based on their needs.
+  * Responsibilities: Troubleshooted and diagnosed computer problems, recommended solutions and services. Assisted clients with questions and provided solutions and instructions based on their needs.
 
 research
 ======
@@ -102,6 +102,9 @@ workshops & events
 * Coffee and Conversation with Sandra Kübler
   * Indiana University, Center of Excellence for Women & Technology (CEW&T), April 9, 2021
   * I assisted my advisor, along with another student, and we answered questions about LaTeX and discussed the benefits of using it and using Overleaf.
+
+* Machine Translation Marathon in the Americas (MTMA) 2017
+  * I was an attendee of the third MTMA workshop.
 
 service & leadership
 ======
