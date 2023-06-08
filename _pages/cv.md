@@ -36,9 +36,17 @@ languages & skills
 
 experience
 ======
-* February 2022 - Present: TELUS International
+* June 2023 - Present: TELUS International AI Data Solutions
+  * _Linguist Lead_
+    * Works with client teams to improve feedback for TI Linguists, and evolves and prioritizes ongoing working processes associated with client's data and annotation needs.
+    * Leads and educate a team of linguists in project-related tasks.
+    * Liaises with fellow TI Linguists to train, coach, and mentor on specific client projects.
+    * Contributes to NLP research and collaborates with product teams at Grammarly to annotate content and perform data quality control. 
+    * Provides feedback to the analytical linguists on annotation guidelines.
+* February 2022 - June 2023: TELUS International AI Data Solutions
   * _Linguistics Analyst II_
-    * I am a full-time contract employee collaborating on NLP research and with product teams for Grammarly to annotate content and perform data quality control. I also provide feedback to the analytical linguists on annotation guidelines.
+    * Contributed to NLP research and collaborated with product teams at Grammarly to annotate content and perform data quality control. 
+    * Provided feedback to the analytical linguists on annotation guidelines.
 * Spring 2022: Research Assistant, Indiana University, Linguistics Department
   * _Research Assistant_
     * I investigated whether something new or different is being learned about the target language when optimizing on the target language rather than using the source optimization when performing dependency parsing on closely related languages. The evaluated languages were Swedish, Norwegian (Nynorsk), and Danish.
