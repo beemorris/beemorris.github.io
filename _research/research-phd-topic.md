@@ -1,6 +1,7 @@
 ---
 title: "Nordic Languages Neural Dependency Parsing"
 type: "Portfolio"
+excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
 collection: research
 permalink: /research/phd-research
 ---
