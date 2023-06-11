@@ -2,7 +2,7 @@
 title: "Nordic Languages Neural Dependency Parsing"
 type: "Talk"
 collection: talks
-permalink: /research/phd-research
+permalink: /research/phd-research-topic
 venue: "Indana University, Bloomington, Indiana, USA"
 date: 2022-08-24
 location: "Indana University, Bloomington, Indiana, USA"
