@@ -9,8 +9,8 @@ main:
   - title: "curriculum vitae"
     url: /curriculum-vitae/
 
-  - title: "research"
-    url: /research/
+#  - title: "research"
+#    url: /research/
 
   - title: "teaching"
     url: /teaching/
