@@ -1,7 +1,7 @@
 ---
 title: "Nordic Languages Neural Dependency Parsing"
 type: "Talk"
-collection: research
+collection: talks
 permalink: /research/phd-research
 venue: ""
 date: 
