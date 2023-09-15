@@ -38,7 +38,7 @@ experience
 ======
 * June 2023 - Present: TELUS International AI Data Solutions
   * _Linguist Lead_
-    * Works with client teams at Grammarly to improve feedback for TI Linguists, and evolves and prioritizes ongoing working processes associated with client's data and annotation needs.
+    * Works with client teams at Grammarly to improve feedback for TI Linguists.
     * Leads and educates a team of linguists in project-related tasks.
     * Liaises with fellow TI Linguists to train, coach, and mentor on specific client projects.
     * Contributes to NLP research and collaborates with product teams at Grammarly to annotate content and perform data quality control. 
