@@ -10,8 +10,6 @@ redirect_from:
 
 I am a computational linguist who loves language and technology. 
 
-I am interested in transitioning into management positions related to linguistics and technology.
-
 I am currently working on getting my Pilates teaching certification. I enjoy listening to music, playing video games, reading, and spending time with my cat. 
 
 I am interested in relocating to the PNW, especially Seattle.
