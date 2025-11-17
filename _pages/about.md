@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "about me"
+title: "becca morris"
 excerpt: "about me"
 author_profile: true
 redirect_from: 
