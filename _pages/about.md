@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a computational linguist who loves language and technology. 
+I am a computational linguist who loves language and technology.
 
-I am currently working on getting my Pilates teaching certification. I enjoy listening to music, reading, playing video games, reading, and spending time with my cat. 
+I am a creative problem solver who loves to find answers. I excel at cross-team communication and collaboration, but I also work well independently. I thrive in an environment with evolving priorities and varying tasks.
 
-I am interested in relocating to the PNW, especially Seattle.
+In my free time, I enjoy listening to music, reading, playing video games, reading, and spending time with my cat. 
