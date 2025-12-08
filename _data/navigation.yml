@@ -6,8 +6,8 @@ main:
   - title: "employment"
     url: /employment/
 
-  - title: "curriculum vitae"
-    url: /curriculum-vitae/
+#  - title: "curriculum vitae"
+#    url: /curriculum-vitae/
 
 #  - title: "research"
 #    url: /research/
@@ -27,5 +27,5 @@ main:
   - title: "memberships"
     url: /memberships/
 
-#  - title: "contact"
-#    url: /contact/
+  - title: "contact & resume"
+    url: /contact-resume/

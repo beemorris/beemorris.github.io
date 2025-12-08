@@ -1,6 +1,5 @@
-<!--- ---
-permalink: /contact/
-title: "contact"
+permalink: /contact-resume/
+title: "contact & resume"
 excerpt: "contact"
 author_profile: true
 redirect_from:
@@ -9,4 +8,4 @@ redirect_from:
 
 {% include base_path %}
 
-To contact me, please send me an email at: morrisbe at iu dot edu.--->
+For my resume and to contact me, please send me an email using the contact information in the sidebar.
