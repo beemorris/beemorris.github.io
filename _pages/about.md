@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a computational linguist who loves language and technology.
+I’m a computational linguist and senior localization engineer who loves the intersection of language, technology, and clear communication. I’m highly detail-oriented and especially drawn to the challenge of turning complex systems—localization workflows, file formats, developer tooling, and linguistic structures—into clear, well-structured documentation.
 
-I am a creative problem solver who loves to find answers. I excel at cross-team communication and collaboration, but I also work well independently. I thrive in an environment with evolving priorities and varying tasks.
+As an aspiring technical writer, I focus on accuracy, clarity, and thoughtful organization, bringing together my background in computational linguistics, engineering, and teaching to explain intricate concepts with precision.
 
-In my free time, I enjoy listening to music, reading, playing video games, reading, and spending time with my cat. 
+Outside of work, I enjoy listening to music, reading, photography, playing video games, and spending time with my cat.
