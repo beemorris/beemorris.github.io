@@ -1,5 +1,6 @@
 ---
 title: "Portfolio item number 1"
+permalink: /portfolio-1/
 excerpt: "Installing Okapi on a Mac"
 collection: portfolio
 ---
