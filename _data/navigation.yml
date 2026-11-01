@@ -6,17 +6,17 @@ main:
   - title: "employment"
     url: /employment/
 
-  - title: "curriculum vitae"
-    url: /curriculum-vitae/
+  - title: "education"
+    url: /education/
 
 #  - title: "research"
 #    url: /research/
 
-  - title: "teaching"
-    url: /teaching/
+#  - title: "teaching"
+#    url: /teaching/
 
-  - title: "talks"
-    url: /talks/
+#  - title: "talks"
+#    url: /talks/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/

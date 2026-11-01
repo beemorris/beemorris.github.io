@@ -10,6 +10,10 @@ redirect_from:
 
 {% include base_path %}
 
+editing
+======
+  * The Editorial Freelancers Association
+
 service & leadership
 ======
   * 2021 - 2022
